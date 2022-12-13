@@ -8,3 +8,4 @@ This is a script to get Weibo's cookies.
 3. After you scan the QR code, you will see the Cookie entered on the console (SUB=xxx).<img src="sub.png"/>
 4. You can do many things with your SUB, such as superwordname sign in, etc. 
 5. ⚠️<i>Please do not disclose your sub to strangers. This will endanger your account security.</i>
+Enjoy!
