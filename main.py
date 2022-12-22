@@ -51,8 +51,7 @@ def getSub():
                     sub = ck
                     print("已获取到SUB")
                     print(sub)
-                else:
-                    print('未获取到SUB')
+
             break
 
 
